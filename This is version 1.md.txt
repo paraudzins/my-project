@@ -1,3 +1,5 @@
+Git push iestatīšana
+
 - Install GitHub CLI
 - gh auth login
 - gh auth status
@@ -11,3 +13,10 @@
 - git commit -m "Initial commit"
 - git branch -M main
 - git push -u origin main
+
+
+Versijām
+
+- git tag -a v1.0.0 -m "Version v1.0.0"
+- git push origin v1.0.0
+- git tag

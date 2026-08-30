@@ -1,0 +1,13 @@
+- Install GitHub CLI
+- gh auth login
+- gh auth status
+- git config --global user.name "username"
+- git config --global user.email "e-mail"
+- Izveidot savu repository GitHub
+- git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+- Ja nepieciešams mainīt: git remote set-url origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+- Esot pareizajā mapē palaist command promt
+- git add .
+- git commit -m "Initial commit"
+- git branch -M main
+- git push -u origin main

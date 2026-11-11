@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="WCAqikxTK3b5cnGnuEWY">
-    <mxGraphModel dx="2888" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3274" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,16 +164,16 @@
           <mxGeometry height="40" width="120" x="180" y="460" as="geometry" />
         </mxCell>
         <mxCell id="VU0en2k0P3fWdNkcWBDe-53" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class inventory&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;int rod;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;int lure;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;int money;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;Int palikušais_attalums&lt;/b&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="140" x="360" y="930" as="geometry" />
+          <mxGeometry height="100" width="140" x="360" y="990" as="geometry" />
         </mxCell>
         <mxCell id="VU0en2k0P3fWdNkcWBDe-54" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class Store&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="120" y="1050" as="geometry" />
+          <mxGeometry height="60" width="140" x="120" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="VU0en2k0P3fWdNkcWBDe-55" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class Fish&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="360" y="1050" as="geometry" />
+          <mxGeometry height="60" width="140" x="360" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="VU0en2k0P3fWdNkcWBDe-56" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class RandomEvent&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="580" y="1050" as="geometry" />
+          <mxGeometry height="60" width="140" x="580" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="VU0en2k0P3fWdNkcWBDe-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="steals -10 money" vertex="1">
           <mxGeometry height="40" width="120" x="780" y="460" as="geometry" />
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="VU0en2k0P3fWdNkcWBDe-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="rod -10" vertex="1">
           <mxGeometry height="40" width="120" x="610" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0en2k0P3fWdNkcWBDe-63" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;" value="1. Gājiens 5 money&lt;div&gt;2. random events un maksķerēšana&lt;/div&gt;&lt;div&gt;3 piedāvā veikalu.&lt;/div&gt;&lt;div&gt;4. piedāvā veikalu&lt;/div&gt;&lt;div&gt;5.Gājiens 5 naudas&lt;/div&gt;&lt;div&gt;un loop tas viss.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="510" x="-580" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

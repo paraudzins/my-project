@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="WCAqikxTK3b5cnGnuEWY">
-    <mxGraphModel dx="2544" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3274" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yfyViFL5sxJfPWUACmdf-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fishing simulator" vertex="1">
           <mxGeometry height="40" width="120" x="360" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="yfyViFL5sxJfPWUACmdf-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="yfyViFL5sxJfPWUACmdf-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="get home;" vertex="1">
           <mxGeometry height="40" width="120" x="360" y="180" as="geometry" />
         </mxCell>
         <mxCell id="yfyViFL5sxJfPWUACmdf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -162,6 +162,30 @@
         </mxCell>
         <mxCell id="VU0en2k0P3fWdNkcWBDe-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="int money = 0;" vertex="1">
           <mxGeometry height="40" width="120" x="180" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0en2k0P3fWdNkcWBDe-43" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Classname fishing" vertex="1">
+          <mxGeometry height="86" width="160" x="345" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0en2k0P3fWdNkcWBDe-44" parent="VU0en2k0P3fWdNkcWBDe-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: type" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0en2k0P3fWdNkcWBDe-45" parent="VU0en2k0P3fWdNkcWBDe-43" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0en2k0P3fWdNkcWBDe-46" parent="VU0en2k0P3fWdNkcWBDe-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ method(type): type" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0en2k0P3fWdNkcWBDe-47" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Classname event" vertex="1">
+          <mxGeometry height="86" width="160" x="670" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0en2k0P3fWdNkcWBDe-48" parent="VU0en2k0P3fWdNkcWBDe-47" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: type" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0en2k0P3fWdNkcWBDe-49" parent="VU0en2k0P3fWdNkcWBDe-47" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0en2k0P3fWdNkcWBDe-50" parent="VU0en2k0P3fWdNkcWBDe-47" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ method(type): type" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

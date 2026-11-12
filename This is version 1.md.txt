@@ -7,10 +7,14 @@ Git push iestatīšana
 - git config --global user.name "username"
 - git config --global user.email "e-mail"
 - Izveidot savu repository GitHub
-- git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-- Ja nepieciešams mainīt: git remote set-url origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
 - izveidot mapi uz lokālā datora.
 - Esot pareizajā mapē palaist command promt
+- git init
+- git add .
+- git commit -m "Initial commit"
+- git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+- Ja nepieciešams mainīt: git remote set-url origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+
 - git add .
 - git commit -m "Initial commit"
 - git branch -M main

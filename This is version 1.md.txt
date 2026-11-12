@@ -26,3 +26,5 @@ Versijām
 - git tag -a v1.0.0 -m "Version v1.0.0"
 - git push origin v1.0.0
 - git tag
+
+Ja kļūda taisot push, izmantot komandu =: git pull origin main --allow-unrelated-histories

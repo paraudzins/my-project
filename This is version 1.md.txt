@@ -1,6 +1,7 @@
 Git push iestatīšana
 
-- Install GitHub CLI kommanda: winget install --id Git.Git -e --source winget
+- Install Git ar komandu: winget install --id Git.Git -e --source winget
+- Install GitHub.cli ar komandu: winget install --id GitHub.cli
 - gh auth login
 - gh auth status
 - git config --global user.name "username"
